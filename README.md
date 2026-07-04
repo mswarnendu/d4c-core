@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" />
   <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/python-3.10+-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/mswarnendu/dull-deeds-done-dirt-cheap?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/mswarnendu/dull-deeds-done-dirt-cheap?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/mswarnendu/d4c-core?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/mswarnendu/d4c-core?style=flat-square" />
 </p>
 
 <p align="center">
