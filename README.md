@@ -21,7 +21,7 @@
   <a href="#features">Features</a> •
   <a href="#how-it-works">How It Works</a> •
   <a href="#interface--experience">Interface</a> •
-  <a href="#instillation">Instillation</a> •
+  <a href="#installation">Installation</a> •
   <a href="#starter-commands">Starter Commands</a> •
   <a href="#final-note">Final Note</a>
   
